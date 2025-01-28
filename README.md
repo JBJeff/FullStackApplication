@@ -10,7 +10,7 @@ Ein modernes FullStack Project, das sich durch erweiterte Funktionalitäten und 
 - **Performance-Optimiert**: Für hohe Belastung ausgelegt.
 
 ## Technologie-Stack
-- **Programmiersprache**: Kotlin
+- **Programmiersprache**: Java
 - **Framework**: Spring Boot
 - **Build-System**: Gradle (Kotlin DSL)
 
